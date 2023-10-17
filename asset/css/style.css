@@ -1160,6 +1160,7 @@
     position: relative;
 }
 
+
 .section-10 .inner-video .inner-image img{
     width: 100%;
     height: 100%;
@@ -1187,19 +1188,6 @@
     font-size: 38px;
 }
 
-@media (max-width: 575.98px){
-    .section-10 .inner-video .inner-image img {
-        width: 368px;
-        /* height: 300px; */
-        min-height: 300px;
-    }
-
-    .section-10 .inner-video .inner-icon {
-        position: absolute;
-        top: 30%;
-        left: 35%;
-    }
-}
 /* end section 10 */
 
 /* section 11 */
