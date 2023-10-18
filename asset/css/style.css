@@ -1208,6 +1208,10 @@
         height: 90px;
         width: 90px;
     }
+
+    .section-10 .inner-box .inner-title {
+        font-size: 36.6px;
+    }
 }
 
 /* end section 10 */
