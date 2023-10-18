@@ -1188,6 +1188,28 @@
     font-size: 38px;
 }
 
+@media (max-width: 767.98px){
+    .section-10 .inner-video .inner-image img {
+        min-height: 400px;
+    }
+}
+
+@media (max-width: 575.98px){
+    .section-10 .inner-video .inner-image img {
+        min-height: 260px;
+    }
+
+    .section-10 .inner-video .inner-icon {
+        top: 32%;
+        left: 38%;
+    }
+
+    .section-10 .inner-video .inner-icon i {
+        height: 90px;
+        width: 90px;
+    }
+}
+
 /* end section 10 */
 
 /* section 11 */
